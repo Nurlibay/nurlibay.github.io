@@ -1,0 +1,1 @@
+[{  "relation": ["delegate_permission/common.handle_all_urls"],  "target": {    "namespace": "android_app",    "package_name": "uz.nurlibaydev.handlingapplinks",    "sha256_cert_fingerprints":    ["AB:83:2A:DA:1E:97:DA:1A:D7:EE:66:28:10:C9:32:E8:37:5B:60:80:B0:52:A7:68:F3:0D:59:B7:D7:2B:8F:1B"]  }}]
